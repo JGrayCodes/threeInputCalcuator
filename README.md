@@ -1,6 +1,6 @@
 # threeInputCalcuator
 
-This program takes 2 numbers and 1 arithmetic operator ( +, - , *, / ).
+This program takes input from the user of 2 numbers and 1 arithmetic operator ( +, - , *, / ).
 
 It then performs a calculation using the two number inputs, based on the operator selected by the user in input 3.
 
